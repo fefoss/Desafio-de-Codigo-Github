@@ -1,0 +1,33 @@
+## Comandos do dia-dia do Programador 
+
+
+
+Aprendi cedo que é bom anotar tudo que você escreve, só assim você realmente aprende.
+
+
+
+# Alguns dos Comandos que Aprendi na introdução da Git/GitHub!
+
+
+
+dir (pastas)
+
+cd /
+
+cd .. (voltar)
+
+cls (limpar)
+
+criar pasta mkdir (nome da pasta + enter)
+
+TAB (completa o nome da pasta)
+
+echo (criar um arquivo dentro do depositorio)
+
+del (deleta arquivos, e não um repositorio)
+
+RMDIR /S /Q (deleta o repositorio) 
+
+ls -a (pastas ocultas)
+
+se der tudo certo o terminal não vai falar nada
