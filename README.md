@@ -1,2 +1,2 @@
-# desafiio-de-codigo-github
-Desafio de Projeto sobre Git/GitHub
+# Desafiio de codigo Git/GitHub
+Repositório para o desafio de Projeto da DIO
