@@ -2,7 +2,7 @@
 
 
 
-Aprendi cedo que é bom anotar tudo que você escreve, só assim você realmente aprende.
+Aprendi cedo que é bom anotar tudo que você estuda, só assim você realmente aprende.
 
 
 
@@ -12,11 +12,11 @@ Aprendi cedo que é bom anotar tudo que você escreve, só assim você realmente
 
 dir (pastas)
 
-cd /
+cd / (direcionamento para as pastas)
 
 cd .. (voltar)
 
-cls (limpar)
+cls / CTRL+L (limpar)
 
 criar pasta mkdir (nome da pasta + enter)
 
