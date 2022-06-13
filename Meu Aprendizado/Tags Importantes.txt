@@ -1,0 +1,41 @@
+div: conteudo principal
+
+section: representa uma seção de conteudo generico
+
+header: cabeçalho da pagina
+
+article: representa um conteudo relevante
+
+aside: conteudo relacionado ao conteudo principal da pagina
+
+footer: rodapé da pagina/ou parte da pagina
+
+h1 e h6: ele representa a importancia duma pagina
+
+h1: titulo da pagina
+
+h2: titulo da seção
+
+h3: titulo do artigo
+
+p: conteudo do artigo
+
+<a href: link
+
+<a target: _blank
+
+<img> a imagem
+
+<img src> guarda o caminho da imagem
+
+<img alt> mostra a descrição da foto quando não carregada
+
+ul: item 1
+    item 2
+
+ol: 1. item 1
+    2. item 3
+
+<li>
+adiconar uma lista de contado ao rodapé do site
+
